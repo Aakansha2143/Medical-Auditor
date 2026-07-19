@@ -1,0 +1,15 @@
+.streamlit/secrets.toml
+
+__pycache__/
+
+*.pyc
+
+temp/
+
+reports/
+
+chroma_db/
+
+.env
+
+.vscode/
